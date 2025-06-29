@@ -59,7 +59,9 @@ Identified Issue: Usability testing with wireframes revealed that 70% of testers
 Solution: The team redesigned the layout to:
 
 •Move filters to a more prominent position
+
 •Add visual separation from navigation
+
 •Include clear filter activation indicators
 
 Impact: The final product saw a 40% increase in filter usage and significantly reduced support queries about finding past transactions.
